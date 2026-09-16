@@ -64,7 +64,7 @@ java NumberGuessingGame
 
 ## Project Structure
 
-Java-Task2-NumberGuessingGame
+Java-Task1-NumberGuessingGame
 |
 |-- NumberGuessingGame.java
 |-- README.md
